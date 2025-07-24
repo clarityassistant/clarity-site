@@ -28,15 +28,6 @@ sections:
       Clarity c'est ton miroir intelligent pour reprendre le contrôle de ta
       santé mentale 
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: Get started
         altText: ''
         url: '/https://tally.so/r/w5D55Z'
@@ -46,6 +37,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
