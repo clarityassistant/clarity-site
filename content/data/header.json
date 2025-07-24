@@ -11,8 +11,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/clarity.png"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
