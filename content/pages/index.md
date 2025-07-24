@@ -9,24 +9,24 @@ sections:
       type: TitleBlock
     subtitle: Bénéfices de Clarity
     text: >
-      Clarity t'aide à retrouver ta concentration, réduire ta charge mentale et
-      avancer chaque jour dans ce qui compte vraiment.
+      ## Clarity t'aide à retrouver ta concentration, réduire ta charge mentale
+      et avancer chaque jour dans ce qui compte vraiment.
 
 
-      Un plan clair chaque matin, personnalisé grâce à notre IA 
+      Un plan clair chaque matin, personnalisé grâce à notre IA
 
 
-      Un résumé de ta journée pour apprendre de tes actions 
+      Un résumé de ta journée pour apprendre de tes actions
 
 
-      Moins de dispersion, plus de direction grâce à notre mode focus 
+      Moins de dispersion, plus de direction grâce à notre mode focus
 
 
-      résultat : Tu sais quoi faire, pourquoi, comment 
+      résultat : Tu sais quoi faire, pourquoi, comment
 
 
       Clarity c'est ton miroir intelligent pour reprendre le contrôle de ta
-      santé mentale 
+      santé mentale
     actions:
       - label: Get started
         altText: ''
