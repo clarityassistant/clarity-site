@@ -30,7 +30,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '/https://tally.so/r/w5D55Z'
         showIcon: false
         icon: arrowRight
         iconPosition: right
