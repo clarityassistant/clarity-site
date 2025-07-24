@@ -11,8 +11,7 @@
                 ]
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/clarity-1-1-square.png"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {
