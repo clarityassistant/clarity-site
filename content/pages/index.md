@@ -9,9 +9,24 @@ sections:
       type: TitleBlock
     subtitle: Bénéfices de Clarity
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Clarity t'aide à retrouver ta concentration, réduire ta charge mentale et
+      avancer chaque jour dans ce qui compte vraiment.
+
+
+      Un plan clair chaque matin, personnalisé grâce à notre IA 
+
+
+      Un résumé de ta journée pour apprendre de tes actions 
+
+
+      Moins de dispersion, plus de direction grâce à notre mode focus 
+
+
+      résultat : Tu sais quoi faire, pourquoi, comment 
+
+
+      Clarity c'est ton miroir intelligent pour reprendre le contrôle de ta
+      santé mentale 
     actions:
       - label: Get started
         altText: ''
